@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\bin\Debug\RacetrackSimulator.exe.config
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\bin\Debug\RacetrackSimulator.exe
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\bin\Debug\RacetrackSimulator.pdb
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\obj\Debug\RacetrackSimulator.frmRaceTrackSim.resources
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\obj\Debug\RacetrackSimulator.Properties.Resources.resources
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\obj\Debug\RacetrackSimulator.csproj.GenerateResource.Cache
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\obj\Debug\RacetrackSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\obj\Debug\RacetrackSimulator.exe
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\obj\Debug\RacetrackSimulator.pdb
+C:\Users\Chris\source\repos\RacetrackSimulator\RacetrackSimulator\obj\Debug\RacetrackSimulator.csprojAssemblyReference.cache
